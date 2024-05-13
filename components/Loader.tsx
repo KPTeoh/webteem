@@ -6,7 +6,7 @@ const Loader = () => {
       <Image
         src="/icons/loading-circle.svg"
         alt="Loading..."
-        width={50}
+        width={100}
         height={50}
       />
     </div>
