@@ -8,6 +8,8 @@
 
 # testing
 /coverage
+UsersTeohAppDataRoamingnpm/
+UsersTeohAppDataLocalnpm-cache/
 
 # next.js
 /.next/
