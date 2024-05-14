@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 'use client';
 
 import { useState } from 'react';
@@ -47,3 +48,14 @@ const MeetingPage = () => {
 };
 
 export default MeetingPage;
+=======
+import React from 'react'
+
+const Meeting = ({ params }: { params: { id: string } }) => {
+  return (
+    <div>Meeting Room: #{params.id}</div>
+  )
+}
+
+export default Meeting
+>>>>>>> d893d9c6da674d46a34c23440d8d0c5fa122122b

@@ -7,7 +7,11 @@
     "config": "tailwind.config.ts",
     "css": "app/globals.css",
     "baseColor": "slate",
+<<<<<<< HEAD
     "cssVariables": false,
+=======
+    "cssVariables": true,
+>>>>>>> d893d9c6da674d46a34c23440d8d0c5fa122122b
     "prefix": ""
   },
   "aliases": {

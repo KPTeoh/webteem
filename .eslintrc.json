@@ -1,8 +1,12 @@
 {
+<<<<<<< HEAD
   "extends": [
     "next/core-web-vitals",
     "standard",
     "plugin:tailwindcss/recommended",
     "prettier"
   ]
+=======
+  "extends": "next/core-web-vitals"
+>>>>>>> d893d9c6da674d46a34c23440d8d0c5fa122122b
 }

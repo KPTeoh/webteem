@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import Image from 'next/image';
 import Link from 'next/link';
 import { SignedIn, UserButton } from '@clerk/nextjs';
@@ -31,3 +32,14 @@ const Navbar = () => {
 };
 
 export default Navbar;
+=======
+import React from 'react'
+
+const Navbar = () => {
+  return (
+    <div>Navbar</div>
+  )
+}
+
+export default Navbar
+>>>>>>> d893d9c6da674d46a34c23440d8d0c5fa122122b
